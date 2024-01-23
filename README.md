@@ -1,61 +1,52 @@
-```markdown
-<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello! 👋 I'm Daniel Babalola! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<p><em>[Your Job Title] at [Your Current Workplace] <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></em></p>
+# Dannny-Babs
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/[YourTwitterHandle]?label=Follow)](https://twitter.com/intent/follow?screen_name=[YourTwitterHandle])
-[![Linkedin: [YourLinkedInID]](https://img.shields.io/badge/-[YourLinkedInID]-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/[YourLinkedInID]/)](https://www.linkedin.com/in/[YourLinkedInID]/)
-![GitHub followers](https://img.shields.io/github/followers/[YourGitHubUsername]?label=Follow&style=social)
-[![website](https://img.shields.io/badge/Website-[YourWebsiteColor].svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=[YourWebsiteURL])](https://[YourWebsiteURL]/)
-![](https://visitor-badge.glitch.me/badge?page_id=[YourGitHubUsername].[YourGitHubUsername])
-![Waka Readme](https://github.com/[YourGitHubUsername]/[YourGitHubUsername]/workflows/Waka%20Readme/badge.svg)
+## Introduction
+Welcome to Dannny-Babs, the portfolio of Daniel Babalola. This repository showcases my skills and projects in web development, user interface (UI) design, user experience (UX) design, and mobile development.
 
-### 📫 Want to connect?
+## About Me
+I am a computer science student at Toronto Metropolitan University, with a passion for creating intuitive and engaging user experiences. I have experience working on both front-end development and mobile app development projects.
 
-Book a slot to chat with me about anything you're passionate about. Just describe the agenda!
+## Technical Skills
+- JavaScript
+- CSS
+- WordPress
+- Bootstrap
+- HTML5
+- User Interface (UI) Design
+- Web Development
+- User Experience (UX) Design
+- Adobe XD
+- Illustration
+- Figma
+- Front-End Development
+- Flutter
+- Mobile Development
 
-<a href="[YourCalendlyLink]" target="_blank"><img width="498" alt="meet_link" src="[YourCalendlyBadgeImage]"></a>
+## Education
+- BSc. in Computer Science (Expected Completion: June 2027)
+    - Toronto Metropolitan University, Toronto, Ontario
 
-👇 Connect with me via the command line.
+## Professional Experience
+### Product Designer and Manager (Nov. 2022–Jun. 2023)
+Buzz Web Services
+- Led a team of 5 members in the development and launch of the "buzz.ng" mobile application
+- Achieved a 50% increase in user engagement compared to industry competitors through seamless user experience design
+- Reduced overall project costs by 30% through effective work breakdown structure implementation
 
-```bash
-npx [YourNpxCardUsername]
-```
-**👆 This command line tool can be found at [npx [YourNpxCardUsername]](https://github.com/[YourGitHubUsername]/[YourNpxCardRepository])**
+### User Experience Designer Intern (Jun.-Aug. 2023)
+New Horizons Solution
+- Conducted a class on UI/UX principles, educating 10 participants and fostering a solid grasp of user-centered design fundamentals
+- Developed engaging curriculum materials to ensure clear understanding of key concepts and practical applications
+
+## Projects
+- Recipe App Design and Development (Cookin)
+    - Collaborated with a friend to develop a comprehensive food recipe app from scratch using Flutter and Firebase (2023)
 
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
-```javascript
-const [YourName] = {
-    pronouns: "[YourPronouns]",
-    code: ["[YourTopLanguage]", "[YourSecondLanguage]", "[YourThirdLanguage]"],
-    askMeAbout: ["[YourInterests]"],
-    technologies: {
-        backEnd: {
-            js: ["Node", "Express"],
-        },
-        mobileApp: {
-            native: ["Android Development"]
-        },
-        devOps: ["AWS", "Docker🐳", "Nginx"],
-        databases: ["mongo", "MySql", "sqlite"],
-        misc: ["Firebase", "Socket.IO", "selenium", "open-cv", "[YourAdditionalTech]"]
-    },
-    architecture: ["[YourArchitecturePreferences]"],
-    currentFocus: "[YourCurrentFocus]",
-    funFact: "[YourFunFact]"
-};
-```
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b>, so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
-
----
-<!--START_SECTION:waka-->
-[YourWakaStats]
-<!--END_SECTION:waka-->
-
-**These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
-
-NOTE: Top languages do not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others that I haven't put up on GitHub.
-```
+## Contact Information
+- Email: dannybabs123456@gmail.com
+- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/daniel-babalola)
+- Phone: +1 (437) 499 7337
+- Portfolio: [Portfolio Website](https://your-portfolio-website-url)
+- GitHub: [GitHub Profile](https://github.com/your-github-username)
