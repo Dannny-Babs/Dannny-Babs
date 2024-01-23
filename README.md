@@ -1,11 +1,12 @@
 # Dannny-Babs
 
+![Image Description](public\images\hero.png)
 
 ## Introduction
 Welcome to Dannny-Babs, the portfolio of Daniel Babalola. This repository showcases my skills and projects in web development, user interface (UI) design, user experience (UX) design, and mobile development.
 
 ## About Me
-I am a computer science student at Toronto Metropolitan University, with a passion for creating intuitive and engaging user experiences. I have experience working on both front-end development and mobile app development projects.
+I am a computer science student undergrad, with a passion for creating intuitive and engaging user experiences. I have experience working on both front-end development and mobile app development projects.
 
 ## Technical Skills
 - JavaScript
