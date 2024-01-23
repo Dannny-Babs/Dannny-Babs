@@ -24,12 +24,19 @@ I am a computer science  undergrad, with a passion for creating intuitive and en
 ## Technical Skills
 
 | Skills                   |
-|--------------------------|--------------------------|--------------------------|
-| JavaScript               || CSS                      || WordPress                |
-| Bootstrap                || HTML5                    || User Interface (UI) Design |
-| Web Development          || User Experience (UX) Design || Figma                    |
-| Front-End Development    || Flutter                  || Mobile Development       |
-
+|--------------------------|
+| JavaScript               |
+| CSS                      |
+| WordPress                |
+| Bootstrap                |
+| HTML5                    |
+| User Interface (UI) Design |
+| Web Development          |
+| User Experience (UX) Design |
+| Figma                    |
+| Front-End Development    |
+| Flutter                  |
+| Mobile Development       |
 
 
 
@@ -39,6 +46,5 @@ I am a computer science  undergrad, with a passion for creating intuitive and en
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
 
-START_SECTION:waka
-
-END_SECTION:waka
+<!--START_SECTION:Waka-->
+<!--END_SECTION:Waka-->
