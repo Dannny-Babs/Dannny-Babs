@@ -47,6 +47,5 @@ New Horizons Solution
 ## Contact Information
 - Email: dannybabs123456@gmail.com
 - LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/daniel-babalola)
-- Phone: +1 (437) 499 7337
 - Portfolio: [Portfolio Website](https://your-portfolio-website-url)
 - GitHub: [GitHub Profile](https://github.com/your-github-username)
