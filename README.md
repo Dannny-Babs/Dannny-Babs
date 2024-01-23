@@ -10,7 +10,7 @@ Welcome to Dannny-Babs, the portfolio of Daniel Babalola. This repository showca
 
 ## About Me
 
-I am a computer science student undergrad, with a passion for creating intuitive and engaging user experiences. I have experience working on both front-end development and mobile app development projects.
+I am a computer science  undergrad, with a passion for creating intuitive and engaging user experiences. I have experience working on both front-end development and mobile app development projects.
 
 ![Image Description](public/images/tools.png)
 
