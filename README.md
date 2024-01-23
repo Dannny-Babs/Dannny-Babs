@@ -1,5 +1,6 @@
 # Dannny-Babs
 
+
 ## Introduction
 Welcome to Dannny-Babs, the portfolio of Daniel Babalola. This repository showcases my skills and projects in web development, user interface (UI) design, user experience (UX) design, and mobile development.
 
@@ -47,5 +48,7 @@ New Horizons Solution
 ## Contact Information
 - Email: dannybabs123456@gmail.com
 - LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/daniel-babalola)
-- Portfolio: [Portfolio Website](https://your-portfolio-website-url)
-- GitHub: [GitHub Profile](https://github.com/your-github-username)
+- Portfolio: [Portfolio Website](https://dammydev.netlify.app)
+- Instagram: [Instagram Profile](https://www.instagram.com/dammythedesigner)
+- Twitter: [Twitter Profile](https://www.x.com/kng_lax)
+
