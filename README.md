@@ -41,9 +41,10 @@ I am a computer science  undergrad, with a passion for creating intuitive and en
 
 
 
-![Spotify](https://spotify-github-profile.vercel.app/api/view.svg?uid=o3k463u29i9fjw9zng8q7j5h1&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)
-
-![Jokes Card](https://readme-jokes.vercel.app/api)
+<div style="display: flex; flex-direction: row;">
+    <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=o3k463u29i9fjw9zng8q7j5h1&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" alt="Spotify" width="50%" />
+    <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" width="50%" />
+</div>
 
 
 <!--START_SECTION:Waka-->
