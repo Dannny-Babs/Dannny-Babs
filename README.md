@@ -1,5 +1,5 @@
 # Daniel Babalola
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Dannny-Babs.visitor-badge)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FDannny-Babs%2FDannny-Babs&label=Visitors&labelColor=%23d9e3f0&countColor=%23555555)
 ![Image Description](public/images/hero.png)
 
 ## Introduction
