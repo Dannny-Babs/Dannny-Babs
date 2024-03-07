@@ -7,8 +7,6 @@
 
 Welcome to Dannny-Babs, the portfolio of Daniel Babalola. This repository showcases my skills and projects in web development, user interface (UI) design, user experience (UX) design, and mobile development.
 
-[![My's GitHub stats]<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dannny-Babs&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />]
-
 ![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dannny-Babs&show_icons=true&theme=transparent&&count_private=true)
 
 ## About Me
