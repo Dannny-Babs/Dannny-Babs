@@ -46,7 +46,7 @@ I am a computer science  undergrad, with a passion for creating intuitive and en
    <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" width="50%" />
 </div>
 
-#My Stats
+## My Stats
 
 <!--START_SECTION:waka-->
 
