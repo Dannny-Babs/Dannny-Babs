@@ -18,7 +18,6 @@ I am a computer science  undergrad, with a passion for creating intuitive and en
 - LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/daniel-babalola)
 - Portfolio: [Portfolio Website](https://dammydev.netlify.app)
 - Instagram: [Instagram Profile](https://www.instagram.com/dammythedesigner)
-- Twitter: [Twitter Profile](https://www.x.com/kng_lax)
 
 ![Image Description](public/images/tools.png)
 
