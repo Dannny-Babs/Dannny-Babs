@@ -43,8 +43,8 @@ I am a computer science  undergrad, with a passion for creating intuitive and en
 <!--START_SECTION:waka-->
 
 ```txt
-Dart    14 hrs 13 mins  █████████████████████████   99.85 %
-Other   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
+Dart    16 hrs 52 mins  █████████████████████████   99.88 %
+Other   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
 YAML    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
