@@ -44,11 +44,11 @@ I am a computer science  undergrad, with a passion for creating intuitive and en
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript    7 hrs 45 mins   ██████████████████▓░░░░░░   74.19 %
-Dart          1 hr 7 mins     ██▓░░░░░░░░░░░░░░░░░░░░░░   10.73 %
-CSS           44 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.05 %
-YAML          23 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 %
-Groovy        17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.83 %
+JavaScript    15 hrs 54 mins  ██████████████████████▒░░   89.05 %
+CSS           44 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.13 %
+Dart          27 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.57 %
+YAML          23 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.17 %
+HTML          9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.86 %
 ```
 
 <!--END_SECTION:waka-->
