@@ -26,7 +26,7 @@ I am a computer science  undergrad, with a passion for creating intuitive and en
 ![Image Description](public/images/tools.png)
 
 ## Technical Skills
-| Skills                                                                                                               |
+| Skills                      |                            |                             |                             |
 |-----------------------------|----------------------------|-----------------------------|-----------------------------|
 | JavaScript                  | CSS                        | WordPress                   |  React Js                   |
 | Bootstrap                   | HTML5                      | User Interface (UI) Design  |  Next Js                    |
