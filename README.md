@@ -10,7 +10,6 @@ Welcome to Dannny-Babs, the portfolio of Daniel Babalola. This repository showca
 
 <div style="display: flex; flex-direction: row;">
 <img class="img" src="https://github-readme-stats.vercel.app/api?username=Dannny-Babs&show_icons=true&theme=transparent&count_private=true" />
- <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dannny-Babs&theme=radical&count_private=true" />
 </div>
 
 ## About Me
