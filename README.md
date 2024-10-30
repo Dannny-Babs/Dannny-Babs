@@ -43,11 +43,11 @@ I am a computer science  undergrad, with a passion for creating intuitive and en
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript    6 hrs 46 mins   ███████████████▒░░░░░░░░░   61.75 %
-Prolog        1 hr 49 mins    ████▒░░░░░░░░░░░░░░░░░░░░   16.68 %
-Markdown      52 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.91 %
-SQL           23 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 %
-Python        19 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.95 %
+Prolog       1 hr 49 mins    █████████▓░░░░░░░░░░░░░░░   38.98 %
+Markdown     52 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.48 %
+TypeScript   40 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.37 %
+Python       31 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.07 %
+SQL          23 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.25 %
 ```
 
 <!--END_SECTION:waka-->
