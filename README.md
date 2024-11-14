@@ -43,11 +43,10 @@ I am a computer science  undergrad, with a passion for creating intuitive and en
 <!--START_SECTION:waka-->
 
 ```txt
-Python       3 hrs 57 mins   █████████████████████░░░░   83.62 %
-HTML         40 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.11 %
-Git Config   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.33 %
-Text         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.87 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+Python       1 hr 19 mins    ██████████████████████▒░░   89.83 %
+TypeScript   8 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.70 %
+Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
+CSS          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
 ```
 
 <!--END_SECTION:waka-->
