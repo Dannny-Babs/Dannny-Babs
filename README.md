@@ -43,11 +43,11 @@ I am a computer science  undergrad, with a passion for creating intuitive and en
 <!--START_SECTION:waka-->
 
 ```txt
-PHP        57 mins         ███████████████░░░░░░░░░░   60.57 %
-Markdown   18 mins         █████░░░░░░░░░░░░░░░░░░░░   19.91 %
-Python     13 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.03 %
-CSS        3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 %
-Other      1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.91 %
+PHP        57 mins         ██████████████████████░░░   87.48 %
+Markdown   3 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.12 %
+CSS        3 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.18 %
+Other      0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.02 %
+Python     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
 ```
 
 <!--END_SECTION:waka-->
