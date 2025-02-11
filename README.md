@@ -43,10 +43,10 @@ I am a computer science  undergrad, with a passion for creating intuitive and en
 <!--START_SECTION:waka-->
 
 ```txt
-Dart       5 hrs 14 mins   ███████████████▓░░░░░░░░░   63.16 %
-SQL        1 hr 36 mins    █████░░░░░░░░░░░░░░░░░░░░   19.45 %
-HTML       1 hr 22 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.65 %
-Markdown   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.74 %
+Dart       5 hrs 14 mins   ███████████████████░░░░░░   75.72 %
+SQL        1 hr 36 mins    █████▓░░░░░░░░░░░░░░░░░░░   23.31 %
+Markdown   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.89 %
+HTML       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
 ```
 
 <!--END_SECTION:waka-->
