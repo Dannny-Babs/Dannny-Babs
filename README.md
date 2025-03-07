@@ -43,11 +43,10 @@ I am a computer science  undergrad, with a passion for creating intuitive and en
 <!--START_SECTION:waka-->
 
 ```txt
-SQL        3 hrs 12 mins   ████████████████████▓░░░░   82.95 %
-Other      26 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.56 %
-Elixir     6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.86 %
-Git        3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.44 %
-Markdown   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.17 %
+SQL         1 hr 26 mins    ██████████████████░░░░░░░   71.87 %
+Smalltalk   22 mins         ████▓░░░░░░░░░░░░░░░░░░░░   19.06 %
+Elixir      6 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.51 %
+Other       4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 %
 ```
 
 <!--END_SECTION:waka-->
