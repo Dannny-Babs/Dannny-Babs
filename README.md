@@ -43,11 +43,11 @@ I am a computer science  undergrad, with a passion for creating intuitive and en
 <!--START_SECTION:waka-->
 
 ```txt
-Dart         13 hrs 46 mins  ██████████████████████░░░   87.54 %
-TypeScript   1 hr 2 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.58 %
-JSON         54 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.77 %
-Bash         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
-YAML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+Dart         9 hrs 59 mins   █████████████████▒░░░░░░░   69.52 %
+TypeScript   3 hrs 29 mins   ██████░░░░░░░░░░░░░░░░░░░   24.25 %
+JSON         52 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.14 %
+Bash         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
+TSConfig     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
