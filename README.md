@@ -43,10 +43,10 @@ I am a computer science  undergrad, with a passion for creating intuitive and en
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   2 hrs 19 mins   ███████████████████▓░░░░░   78.63 %
-JavaScript   19 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.76 %
-Other        18 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.51 %
-Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
+TypeScript   2 hrs 20 mins   ██████████████████▓░░░░░░   74.98 %
+Other        25 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.90 %
+JavaScript   19 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.22 %
+Markdown     1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.86 %
 HTML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 ```
 
