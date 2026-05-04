@@ -43,7 +43,8 @@ I am a computer science  undergrad, with a passion for creating intuitive and en
 <!--START_SECTION:waka-->
 
 ```txt
-Git Config   22 mins               █████████████████████████   100.00 %
+Git Config   22 mins               █████████████████░░░░░░░░   67.47 %
+TypeScript   10 mins               ████████░░░░░░░░░░░░░░░░░   32.53 %
 ```
 
 <!--END_SECTION:waka-->
