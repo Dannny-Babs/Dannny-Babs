@@ -1,50 +1,65 @@
-# Daniel Babalola 
+# Daniel Babalola
+
+Software engineer focused on building thoughtful products, reliable systems, and polished user experiences.
+
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FDannny-Babs%2FDannny-Babs&label=Visitors&labelColor=%23d9e3f0&countColor=%23555555)
-</br>
 
-## Introduction
+## About
 
-Welcome to Dannny-Babs, the portfolio of Daniel Babalola. This repository showcases my skills and projects in web development, user interface (UI) design, user experience (UX) design, and mobile development.
+I enjoy taking ideas from rough concepts to working products.
 
+My work spans product engineering, customer-facing systems, integrations, web applications, and mobile experiences. I care about the entire process: understanding the problem, designing the experience, engineering the system, and refining the details that make a product feel complete.
 
-<div style="display: flex; flex-direction: row;">
-<img class="img" src="https://github-readme-stats.vercel.app/api?username=Dannny-Babs&show_icons=true&theme=transparent&count_private=true" />
-</div>
+I currently work as a Forward Deployed Engineer at Rose Rocket, where I build customer-facing features, enterprise integrations, and platform improvements.
 
-## About Me
+Outside of work, I build tools, experiments, and products around problems I find interesting.
 
-I am a computer science  undergrad, with a passion for creating intuitive and engaging user experiences. I have experience working on both front-end development and mobile app development projects.
+## Selected Work
 
-## Contact Information
+### ModelCache
 
-- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/daniel-babalola)
-- Portfolio: [Portfolio Website](https://dammydev.netlify.app)
-- Instagram: [Instagram Profile](https://www.instagram.com/dammythedesigner)
+A semantic caching and retrieval system designed to reduce LLM inference latency and cost by identifying when previous responses can be safely reused.
 
-![Image Description](public/images/tools.png)
+### Document Engine
 
-## Technical Skills
-| Skills                      |                            |                             |                             |
-|-----------------------------|----------------------------|-----------------------------|-----------------------------|
-| JavaScript                  | CSS                        | WordPress                   |  React Js                   |
-| Bootstrap                   | HTML5                      | User Interface (UI) Design  |  Next Js                    |
-| Web Development             | User Experience (UX) Design| Figma                       |                             |
-| Front-End Development       | Flutter                    | Mobile Development          |                             |
+A browser-based document editor and rendering engine supporting structured document state, dynamic layouts, pagination, reusable templates, and PDF generation.
 
+### Tally
 
+A personal finance application for tracking income, expenses, savings, and financial activity through a clear and considered mobile experience.
 
-<div style="display: flex; flex-direction: row;">
-   <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" width="50%" />
-</div>
+### Kontextual
 
-## My Stats
+A context-first contact capture and relationship management product for events, founders, sales teams, and other relationship-heavy workflows.
+
+## GitHub Activity
+
+<p>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Dannny-Babs&show_icons=true&theme=transparent&count_private=true"
+    alt="Daniel's GitHub statistics"
+  />
+</p>
+
+## Technologies
+
+| Area | Technologies |
+|---|---|
+| Languages | TypeScript, JavaScript, Dart, HTML, CSS |
+| Frontend | React, Next.js, React Native, Expo |
+| Backend | Node.js, Convex, Supabase, REST APIs, SOAP/XML |
+| Product and UI | Figma, responsive design, interaction design, design systems |
+| Infrastructure and tools | Git, Redis, vector databases, OpenAI APIs, Playwright |
+
+## Elsewhere
+
+- [Portfolio](https://dammydev.netlify.app)
+- [LinkedIn](https://www.linkedin.com/in/daniel-babalola)
+- [Instagram](https://www.instagram.com/dammythedesigner)
+
+## Coding Activity
 
 <!--START_SECTION:waka-->
 
 ```txt
 No activity tracked
-```
-
-<!--END_SECTION:waka-->
-
-
