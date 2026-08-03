@@ -53,9 +53,8 @@ A context-first contact capture and relationship management product for events, 
 
 ## Elsewhere
 
-- [Portfolio](https://dammydev.netlify.app)
+- [Portfolio](https://dammydev.me)
 - [LinkedIn](https://www.linkedin.com/in/daniel-babalola)
-- [Instagram](https://www.instagram.com/dammythedesigner)
 
 ## Coding Activity
 
